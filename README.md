@@ -4,7 +4,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 Start Your Day With Coffee
 
-Recommended Analysis
+Recommended Analysis: 
 How do sales vary by day of the
 week and hour of the day?
 Are there any peak times for sales
